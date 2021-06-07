@@ -26,7 +26,6 @@ branca==0.4.1
 bs4==0.0.1
 cachetools==4.0.0
 catalogue==1.0.0
-catboost==0.24.3
 certifi==2019.11.28
 cffi==1.14.3
 chardet==3.0.4
